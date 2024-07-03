@@ -1,0 +1,19 @@
+{
+  "name": "twitter-tailwind",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.19.2",
+    "vite": "^5.3.3"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
